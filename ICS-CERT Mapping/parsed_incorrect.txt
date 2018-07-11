@@ -1,0 +1,13 @@
+{'Advisory (ICSMA-18-107-02)': 'Element in the ICS-CERT Database is not a product. Here is the url: https://ics-cert.us-cert.gov/advisories/ICSMA-18-107-02'}
+{'Advisory (ICSMA-17-332-01)': 'Element in the ICS-CERT Database is not a product. Here is the url: https://ics-cert.us-cert.gov/advisories/ICSMA-17-332-01'}
+{'Advisory (ICSMA-17-318-01)': 'Element in the ICS-CERT Database is not a product. Here is the url: https://ics-cert.us-cert.gov/advisories/ICSMA-17-318-01'}
+{'Advisory (ICSMA-17-292-01)': 'Element in the ICS-CERT Database is not a product. Here is the url: https://ics-cert.us-cert.gov/advisories/ICSMA-17-292-01'}
+{'Advisory (ICSMA-17-255-01)': 'Element in the ICS-CERT Database is not a product. Here is the url: https://ics-cert.us-cert.gov/advisories/ICSMA-17-255-01'}
+{'Advisory (ICSMA-17-250-01)': 'Element in the ICS-CERT Database is not a product. Here is the url: https://ics-cert.us-cert.gov/advisories/ICSMA-17-250-01'}
+{'Advisory (ICSMA-17-241-01)': 'Element in the ICS-CERT Database is not a product. Here is the url: https://ics-cert.us-cert.gov/advisories/ICSMA-17-241-01'}
+{'Advisory (ICSMA-17-229-01)': 'Element in the ICS-CERT Database is not a product. Here is the url: https://ics-cert.us-cert.gov/advisories/ICSMA-17-229-01'}
+{'Advisory (ICSMA-17-227-01)': 'Element in the ICS-CERT Database is not a product. Here is the url: https://ics-cert.us-cert.gov/advisories/ICSMA-17-227-01'}
+{'Advisory (ICSMA-17-215-01)': 'Element in the ICS-CERT Database is not a product. Here is the url: https://ics-cert.us-cert.gov/advisories/ICSMA-17-215-01'}
+{'Advisory (ICSMA-17-215-02)': 'Element in the ICS-CERT Database is not a product. Here is the url: https://ics-cert.us-cert.gov/advisories/ICSMA-17-215-02'}
+{'Advisory (ICSMA-18-107-02)': 'Element in the ICS-CERT Database is not a product. Here is the url: https://ics-cert.us-cert.gov/advisories/ICSMA-18-107-02'}
+{'Advisory (ICSA-10-070-01A)': 'Element in the ICS-CERT Database is not a product. Here is the url: https://ics-cert.us-cert.gov/advisories/ICSA-10-070-01A'}
